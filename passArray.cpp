@@ -13,7 +13,7 @@ void func1(int (&arr)[rows][cols]) {
 }
 
 int main(void) {
-	printf("Hello world\n");
+	printf("Hello world!!!\n");
 	int arr[5][10];
 
 	for (int i = 0; i < 5; ++i) {
